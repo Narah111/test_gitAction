@@ -1,9 +1,9 @@
-def start():
+def hello():
     print("hi")
 
 
-def finish():
+def bye():
     print("bye")
 
 
-print(start())  
+print(hello())
