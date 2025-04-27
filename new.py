@@ -1,10 +1,11 @@
 from dev import hello
 
+
 def check(text):
     if isinstance(text, str):
-        print("nice work")
+        print("nice work!")
     else:
-        print("try again")
+        print("try again!")
 
 
 check(hello())
