@@ -7,7 +7,7 @@ def bye():
 
 
 def you():
-    print("you")
+    print("you are beutifull")
 
 
 print(hello(), you())
