@@ -6,4 +6,8 @@ def bye():
     print("bye")
 
 
-print(hello())
+def you():
+    print("you")
+
+
+print(hello(), you())
